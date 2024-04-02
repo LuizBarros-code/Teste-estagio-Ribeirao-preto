@@ -1,0 +1,14 @@
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.AssemblyInfoInputs.cache
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.AssemblyInfo.cs
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.csproj.CoreCompileInputs.cache
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\bin\Debug\net8.0\questao5resposta.exe
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\bin\Debug\net8.0\questao5resposta.deps.json
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\bin\Debug\net8.0\questao5resposta.runtimeconfig.json
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\bin\Debug\net8.0\questao5resposta.dll
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\bin\Debug\net8.0\questao5resposta.pdb
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.dll
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\refint\questao5resposta.dll
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.pdb
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\questao5resposta.genruntimeconfig.cache
+C:\Users\netoz\Desktop\Projetos\C#\Teste-estágio-Ribeirão Preto\questao5\questao5resposta\obj\Debug\net8.0\ref\questao5resposta.dll

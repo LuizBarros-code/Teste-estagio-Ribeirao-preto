@@ -9,5 +9,7 @@ c) 49.
 d) 100.
 e) 13.
 f) 20.
+
 4. R = Iria ligar as duas lampadas por um tempo até elas ficarem quentes, Olharia as salas que elas estão, Se estiverem quentes e por que elas estavam acesas, Caso estiver frio e a unica que não liguei.
+   
 5.Caso coloque "Olá mundo", Vai aparecer na tela assim "odnum álo"
